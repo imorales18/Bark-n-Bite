@@ -1,0 +1,229 @@
+body {
+
+	height: 100%;
+	margin: 0;
+}
+
+h3 {
+
+	font-family: 'Russo One', sans-serif;
+	color: white;
+}
+
+nav {
+
+	background-color: #2f3136; 
+	font-family: 'Russo One', sans-serif;
+	color:  #8D0202;
+}
+
+@font-face {
+
+	font-family: swfont;
+	src: url(starjedi/Starjedi.ttf);
+}
+
+@font-face {
+
+	font-family: gotfont;
+	src: url(BLKCHCRY.TTF);
+}
+
+.ultra-wrapper {
+
+	background-color: #242424;
+}
+
+.container {
+
+	background-color: #242424;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+
+.list-group-flush {
+
+	padding-left: 0;
+}
+
+
+.list-group-item {
+
+	background-color: #2f3136;
+	color: white;
+	border-top-color:  #242424;
+}
+
+.col-lg-2 h4 {
+
+	color: white;
+}
+
+.form-control {
+
+	width: 80%;
+	margin-left: 10%;
+}
+
+.float-left {
+
+	margin-top: 40%;
+}
+
+.dark-heading {
+
+	color:  white;
+}
+
+.carousel {
+
+	max-width: 100%;
+	max-height: 100%;
+	margin-right: 0;
+}
+
+.api-info {
+
+	color: white;
+}
+
+.api-title {
+
+	font-family: swfont;
+	padding: 10%;
+}
+
+.api-main-title {
+
+	font-family: swfont;
+	font-size: xx-large;
+	padding: 5%;
+	color: #1A9AC5;
+}
+
+.jumbotron {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.body-text {
+
+	font-size: x-large;
+	font-family: gotfont;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.info-container {
+
+	padding: 4%;
+}
+
+/*#info-container-1 {
+
+	background-color: #a70e0e;
+}*/
+
+#row1 {
+
+	background-color: #8D0202;
+	color: white;
+}
+
+#white-text {
+
+	color: white;
+}
+
+#row3 {
+	background-color: #8D0202;
+	color: white;
+}
+
+#footer {
+
+	background-color: #2f3136;
+}
+
+#footer p {
+
+	color: white;
+	font-size: small;
+}
+
+#D20 {
+
+	position: relative;
+}
+
+#char_name {
+
+	color: white;
+}
+
+#info-row {
+
+	padding: 5%;
+}
+
+#GOT_house {
+
+	font-family: gotfont;
+}
+
+#GOT_alliance {
+
+	font-family: gotfont;
+}
+
+#terrain {
+
+	font-family: gotfont;
+}
+
+#region {
+
+	font-family: gotfont;
+}
+
+#hair_color {
+
+	font-family: gotfont;
+}
+
+
+#race {
+
+	font-family: swfont;
+}
+
+#homeworld {
+
+	font-family: swfont;
+}
+
+#home-planet {
+
+	font-family: swfont;
+}
+
+#lifespan {
+
+	font-family: swfont;
+}
+
+#language {
+
+	font-family: swfont;
+}
+
+#climate {
+
+	font-family: swfont;
+}
+
+#population {
+
+	font-family: swfont;
+}
