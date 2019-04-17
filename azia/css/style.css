@@ -1,0 +1,65 @@
+/* HOME */
+
+#miniabout
+{
+   text-align: center;
+   padding: 10px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+
+.btn
+{
+  border: 1px solid black;
+}
+
+h1
+{
+ text-align: center;
+ padding: 5px;
+}
+
+
+#value
+{
+ text-align: center;
+ padding: 5px;
+ margin-top: 50px;
+ margin-bottom: 100px;
+}
+
+#value img
+{
+  width: 300px;
+  height: auto;
+}
+
+
+/* HOME ENDS */
+
+
+
+/* ABOUT US */
+
+#quote
+{
+  padding: 50px;
+  max-width: 100%;
+  color: #5c4c40;
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+  height: 400px;
+}
+
+#aboutus
+{
+  padding: 50px;
+  text-align: center;
+  margin:0 auto;
+  height: 400px;
+  width: 85%;
+}
+
+/* ABOUT US ENDS */

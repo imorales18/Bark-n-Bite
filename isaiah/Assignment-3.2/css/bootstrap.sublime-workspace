@@ -1,0 +1,769 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"date_default_tim",
+				"date_default_timezone_set"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"User",
+				"Username"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"conte",
+				"content_projects"
+			],
+			[
+				"title",
+				"title_projects"
+			],
+			[
+				"conten",
+				"content_projects"
+			],
+			[
+				"out",
+				"outcome"
+			],
+			[
+				"e",
+				"expecting"
+			],
+			[
+				"o",
+				"occupation"
+			],
+			[
+				"L",
+				"lightsalmon"
+			],
+			[
+				"S",
+				"LightSeaGreen"
+			],
+			[
+				"bl",
+				"BlueViolet"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"phon",
+				"phone_number"
+			],
+			[
+				"p",
+				"p_word"
+			],
+			[
+				"no",
+				"no_match"
+			],
+			[
+				"u",
+				"user_pass"
+			],
+			[
+				"user_",
+				"user_input"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"te",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"a",
+				"always"
+			],
+			[
+				"bor",
+				"border-collapse\tproperty"
+			],
+			[
+				"pis",
+				"position\tproperty"
+			],
+			[
+				"left",
+				"padding-left\tproperty"
+			],
+			[
+				"f",
+				"fileDestination"
+			],
+			[
+				"file",
+				"fileTmpName"
+			],
+			[
+				"fi",
+				"fileActualExt"
+			],
+			[
+				"DIG",
+				"DIG3134_3"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"D",
+				"DIG3134_3"
+			],
+			[
+				"jpg",
+				"JPG"
+			],
+			[
+				"ac",
+				"actor"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"flo",
+				"floater"
+			],
+			[
+				"l",
+				"lava"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"xxxxx",
+				"xxxxx"
+			],
+			[
+				"jum",
+				"jumpSpeed"
+			],
+			[
+				"obs",
+				"obstacle"
+			],
+			[
+				"new",
+				"newPos"
+			],
+			[
+				"y",
+				"yStart"
+			],
+			[
+				"yyyy",
+				"yyyyyy"
+			],
+			[
+				"yyyyyyy",
+				"yyyyyyy"
+			],
+			[
+				"yyyyyy",
+				"yyyyyy"
+			],
+			[
+				"yyyyyyyyyyyyyyyy",
+				"yyyyyyyyyyyyyyyyyy"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"s",
+				"s_code"
+			],
+			[
+				"u_",
+				"u_input"
+			],
+			[
+				"Star",
+				"StartButton"
+			],
+			[
+				"image",
+				"image_2"
+			],
+			[
+				"source",
+				"source_4"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"so",
+				"source_3"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"iframe",
+				"iframe_2"
+			],
+			[
+				"sour",
+				"source_2"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"un",
+				"underdogScore"
+			],
+			[
+				"under",
+				"underdogScore"
+			],
+			[
+				"tra",
+				"trainingScore"
+			],
+			[
+				"mc",
+				"mcguffinScore"
+			],
+			[
+				"und",
+				"underdogScore"
+			],
+			[
+				"fin",
+				"findValue"
+			],
+			[
+				"check",
+				"checkValue"
+			],
+			[
+				"chec",
+				"checkValue"
+			],
+			[
+				"ra",
+				"rather"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"qui",
+				"quiz_result"
+			],
+			[
+				"test",
+				"text-align-last"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"magic",
+				"magic"
+			],
+			[
+				"lo",
+				"loyal"
+			],
+			[
+				"fight",
+				"fight"
+			],
+			[
+				"b",
+				"blockquote\tTag"
+			],
+			[
+				"reas",
+				"reasonable"
+			],
+			[
+				"last",
+				"last_min"
+			],
+			[
+				"repea",
+				"border-image-repeat"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"guess",
+				"guess_3"
+			],
+			[
+				"t",
+				"typeof"
+			],
+			[
+				"des",
+				"destroySmartArray"
+			],
+			[
+				"smarty",
+				"smarty2"
+			],
+			[
+				"Inser",
+				"insertElement"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"ret",
+				"removeElement"
+			],
+			[
+				"De",
+				"DEBUG_MOD"
+			],
+			[
+				"cp",
+				"capacity"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"re",
+				"removeElement"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"temp",
+				"temp_e"
+			],
+			[
+				"tem",
+				"temp_cnt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/DIG Scripting/Notes/Rapid App/Week 1 Files-1/Code/bootstrap 4/my-site/index.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Rapid-App/Assignment-1-Container/Assignment-1/css/bootstrap.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Rapid-App/Assignment-1-Container/Assignment-1/css/styles.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/DIG3134_1.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Rapid-App/Assignment-1-Container/Assignment-1/Campaign-Archive.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/css/DIG_style.css",
+		"/C/Users/Isaiah/Documents/CS-II-Assignments/general/Hello.java",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/FPD_home.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/css/styles.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/FPD_nav.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Personal_Projects/plane_car_boat.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Personal_Projects/css/styles.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Frameworks/pure-layout-marketing/css/layouts/marketing.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Frameworks/pure-layout-marketing/index.html",
+		"/H/CS-II Assignments/SneakyQueens/TestCases/SneakyQueens.java",
+		"/C/Users/Isaiah/Documents/CS-II-Assignments/GenericBST/GenericBST.java",
+		"/C/Users/Isaiah/Documents/CS-II-Assignments/SneakyQueens.java",
+		"/C/Users/Isaiah/Documents/CS-II-Assignments/general/file1.txt",
+		"/C/Users/Isaiah/Documents/CS-II-Assignments/general/file2.txt",
+		"/C/Users/Isaiah/Documents/CS-II-Assignments/general/file3.txt",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Personal_Projects/styles/styles.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/Personal_Projects/PlaneCarBoat.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/discussion.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/FPD_footer.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/DIG3134_2.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/create.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/comments.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/comment.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD_v1/cursedfiles-20181203T001017Z-001/cursedfiles/gallery.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/db_connect.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/logout.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3146/svg.json",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3146/Wordpress dev/cricketBot.json",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3146/Wordpress dev/test.json",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/login.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/account_creation.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3146/Youtube_platform_analysis/stopwords.txt",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD/FPD_home.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_FPD/FPD_nav_footer.php",
+		"/F/DIG Scripting/DIG3134/Project_FPD/content/page_4.txt",
+		"/F/DIG Scripting/DIG3134/Project_FPD/content/page_3.txt",
+		"/F/DIG Scripting/DIG3134/Project_FPD/content/page_2.txt",
+		"/F/DIG Scripting/DIG3134/Project_FPD/content/page_1.txt",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/DIG3134_account.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/DIG3134_login.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/account_table.sql",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/DIG3134_3.php",
+		"/F/C.S. I Assignments/KindredSpirits.c",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Week 10 Files-1/10b code/07-sha1_encryption.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/upload.php",
+		"/F/DIG Scripting/DIG3716c/Assignment 2/css/index.html",
+		"/F/DIG Scripting/DIG3716c/Assignment 2/css/side-menu.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Week 10 Files-1/10b code/03a-session_variable_setting.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/login_valid.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/account_valid.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/account_login.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Project_1.3/includes/acc.php",
+		"/F/DIG Scripting/DIG3134/Project_1.2/includes/campaign.inc.php",
+		"/F/DIG Scripting/DIG3134/Project_1.2/DIG3134_1.php",
+		"/F/DIG Scripting/DIG3134/Project_1.2/DIG3134_2.php",
+		"/F/DIG Scripting/DIG3134/Project_1.2/DIG3134_3.php",
+		"/F/DIG Scripting/DIG3134/Project_1.2/DIG3134_account.php",
+		"/F/DIG Scripting/DIG3134/Project_1.2/DIG3134_login.php",
+		"/F/DIG Scripting/DIG3716c/Assignment 2/css/styles.css",
+		"/F/DIG Scripting/DIG3716c/Assignment 2/page_index-bio.html",
+		"/F/DIG Scripting/DIG3716c/Assignment 2/portfolio.html",
+		"/F/DIG Scripting/DIG3716c/Assignment 2_working/css/styles.css",
+		"/F/DIG Scripting/DIG3716c/Assignment 2_working/css/side-menu.css",
+		"/F/DIG Scripting/DIG3716c/Assignment 2_working/future_projects.html",
+		"/F/DIG Scripting/DIG3716c/Assignment 2_working/page_index-bio.html",
+		"/F/DIG Scripting/DIG3716c/Assignment 2_working/portfolio.html",
+		"/F/DIG Scripting/DIG3716c/Assignment 2_working/contact.html",
+		"/F/DIG Scripting/DIG3716c/Assignment 2_working/css/mycss.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3146/tracerypractice.json",
+		"/F/DIG Scripting/DIG3134/Project_1.1/upload.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/php/account_valid.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG_php/DIG3134_login.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG_php/DIG3134_account.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG_php/DIG3134_2.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG_php/DIG3134_1.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/css/DIG_style.css",
+		"/F/DIG Scripting/DIG3134/Project_1.1/php/login_valid.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG3134_login.html",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG3134_account.html",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG3134_3.html",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG3134_2.html",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG3134_1.html",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG3134_1.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/DIG_php/DIG3134_3.php",
+		"/F/DIG Scripting/DIG3134/Project_1.1/campaign_data.sql",
+		"/F/DIG Scripting/DIG3134/Project_1.1/includes/campaign.inc.php",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/Week+2/Forms Files/08-form_with_get.php",
+		"/C/xampp/htdocs/DIG3134/DIG3134_1.html",
+		"/C/xampp/htdocs/DIG3134/DIG3134_3.html",
+		"/C/xampp/htdocs/DIG3134/DIG3134_2.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3134/midterm.php",
+		"/C/xampp/htdocs/DIG3134/DIG_style.css",
+		"/F/DIG Scripting/DIG3716c/Assignment 1/page_index.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3146/examples.txt",
+		"/F/DIG Scripting/DIG3716c/Assignment 1/css/page_index.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week07/lav07_nav.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week07/nav_examples/horiz_nav/css/styles.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week07/css/lab07_nav.css",
+		"/F/DIG Scripting/DIG3716c/Assignment 1/css/reset.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week07/lav07_nav.html.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week07/lav07_nav1.html.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week07/lab07.html",
+		"/F/DIG Scripting/HTML.html",
+		"/C/Users/Isaiah/Documents/Frameworks/foundation-6.4.2-essential/css/foundation.css",
+		"/C/Users/Isaiah/Documents/Frameworks/foundation-6.4.2-essential/index.html",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3146/clickbait.json",
+		"/C/Users/Isaiah/Documents/Frameworks/foundation-6.4.2-essential/css/app.css",
+		"/C/Users/Isaiah/Documents/Frameworks/foundation-6.4.2-essential/new_index.html",
+		"/C/Users/Isaiah/Documents/Frameworks/foundation-6.4.2-essential/js/vendor/foundation.js",
+		"/C/Users/Isaiah/Documents/Frameworks/foundation-6.4.2-essential/css/foundation.min.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week04/Submit/style.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week04/Submit/lab04.html",
+		"/C/xampp/htdocs/DIG3134/upload.php",
+		"/C/Users/Isaiah/Documents/Frameworks/foundation-6.4.2-complete/css/app.css",
+		"/C/Users/Isaiah/Documents/DIG_scripting/DIG3716/labs/Week04/Submit/style.css.css",
+		"/F/DIG Scripting/DIG3716c/altered.css",
+		"/C/Users/Isaiah/Documents/DIG Scripting/DIG3134/DIG3134_1.html",
+		"/C/Users/Isaiah/Documents/DIG Scripting/DIG3134/DIG3134_2.html",
+		"/C/Users/Isaiah/Documents/DIG Scripting/DIG3134/DIG3134_3.html",
+		"/C/Users/Isaiah/Documents/DIG Scripting/DIG3134/DIG_style.css",
+		"/C/Users/Isaiah/Documents/DIG Scripting/DIG3146/profile.json",
+		"/C/xampp/htdocs/DIG3134/p1_index.php",
+		"/C/xampp/htdocs/test.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//",
+			"}\n",
+			"\">-->\n",
+			"runGame",
+			"  }"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
