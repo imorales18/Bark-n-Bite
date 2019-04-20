@@ -63,3 +63,36 @@ h1
 }
 
 /* ABOUT US ENDS */
+
+
+/* CATERING */
+
+#cateringone
+{
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+#cateringtwo
+{
+  padding-bottom: 5%;
+}
+
+#cateringbtn
+{
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+}
+
+#cateringbtn:hover
+{
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+  color: green;
+}
+
+/* CATERING ENDS */
