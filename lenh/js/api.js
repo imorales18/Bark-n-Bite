@@ -8,26 +8,31 @@ function searchApi(search) {
         type: 'video',
         q: search,
         order: 'relevance',
-        maxResults: 5
+        maxResults: 12
     };
 
     $.getJSON(apiSearch, request, display);
 }
 //Api display content
 function display(results) {
-    var insert = "";
+    var insert1 = "";
+    var insert2 = "";
+    var insert3 = "";
     var reponse = results.items;
     
     $.each(reponse, function (index, item) {
         var title = item.snippet.title;
         var channel = item.snippet.channelTitle;
         var video = item.id.videoId;
-        insert += '<h4>' + title + '</h4>';
-        insert += '<p>' + channel + '</p>'; 
+        var video2 = item.id.videoId;
+        var video3 = item.id.videoId;
+        //insert += '<h4>' + title + '</h4>';
+        //insert += '<p>' + channel + '</p>'; 
         //insert +='<iframe src="' + video + '"></iframe>'; //GET undefined. Will not display...WTF.
-        insert += '<iframe src=\"//www.youtube.com/embed/'+ video +'\"></iframe>'; //throws ERR_BLOCKED_BY_CLIENT due to use of embed and no OAuth. Videos do load however.
+        insert1 += '<div class="col-4"><iframe width="100%" height="auto" src=\"//www.youtube.com/embed/'+ video +'\" allowfullscreen></iframe></div>';
+    
     }); 
-    $('#results-related').html(insert);
+    $('#result').html(insert1);
 }
 
 
