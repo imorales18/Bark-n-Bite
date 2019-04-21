@@ -75,19 +75,34 @@ a
 
 /* CATERING */
 
+h5
+{
+    text-align: center;
+}
+
+#shoppingcart
+{
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+  padding: 5px;
+  padding-bottom: 10px;
+}
+
 .jumbotronc img
 {
   background-position: center;
   background-repeat: repeat-x;
   background-size: contain;
-  height: 215px;
+  height: 300px;
   width: 100%;
 }
 
 .centered
 {
   position: absolute;
-  top: 200px;
+  top: 215px;
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Libre Baskerville', serif;
@@ -124,7 +139,7 @@ a
   width:auto;
   display:table;
   color: #2087d7;
-     font-family: 'Hind Madurai', sans-serif;
+  font-family: 'Hind Madurai', sans-serif;
 }
 
 /* CATERING ENDS */
