@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	 <link href="css/styles.css" rel="stylesheet" type="text/css">
+	<meta charset = "UTF-8">
+	<title>Bark n&post; Bite</title>
+</head>
+
+<body>
+
+	<div class = "container-fluid">
+
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		  <a class="navbar-brand" href="#">Navbar</a>
+		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+		    <span class="navbar-toggler-icon"></span>
+		  </button>
+		  <div class="collapse navbar-collapse" id="navbarNav">
+			    <ul class="nav justify-content-end">
+					  <li class="nav-item">
+					    <a class="nav-link active" href="#">Active</a>
+					  </li>
+					  <li class="nav-item">
+					    <a class="nav-link" href="#">Link</a>
+					  </li>
+					  <li class="nav-item">
+					    <a class="nav-link" href="#">Link</a>
+					  </li>
+					  <li class="nav-item">
+					    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+					  </li>
+				</ul>
+		  </div>
+		</nav>
+
+
+<h1>Catering</h1>
+    <div class="row" id="cateringone">
+
+      <div class="col-sm-3 draggable">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="img/catnipwine.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">$ 10.00</p>
+            <a href="#" id="cateringbtn" class="btn">add to cart</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 draggable">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="img/catwine1.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">$ 10.00</p>
+            <a href="#" id="cateringbtn" class="btn">add to cart</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 draggable">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="img/petwine.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">$ 10.00</p>
+            <a href="#" id="cateringbtn" class="btn">add to cart</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 draggable">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Shopping Cart</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" id="cateringbtn" class="btn">Your cart</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row" id="cateringtwo">
+
+      <div class="col-sm-3 draggable">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="img/catnipwine.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">$ 10.00</p>
+            <a href="#" id="cateringbtn" class="btn">add to cart</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 draggable">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="img/cardognay.png" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">$ 10.00</p>
+            <a href="#" id="cateringbtn" class="btn">add to cart</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-3 draggable">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="img/muttbeer.png" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">$ 10.00</p>
+            <a href="#" id="cateringbtn" class="btn">add to cart</a>
+          </div>
+        </div>
+      </div>
+     </div>
+</div>
+
+<!-- ABOUT US PAGE ENDS -->
+
+
+
+	<script src="js/jQuery.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src = "js/draggable.js"></script>
+</body>
+</html>

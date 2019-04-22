@@ -1,0 +1,46 @@
+.navbar {
+	overflow: hidden;
+	color: black;
+	background-color: #383838;
+	top: 0;
+	width: 100%;
+}
+.navbar a {
+	float: right;
+	text-decoration: none;
+	color: black;
+}
+.navbar a:hover {
+	border-bottom: 2px solid #2087d7;
+	text-decoration: none;
+	color: #2087d7;
+}
+.navbar a:active {
+	border-bottom: 2px solid #FF9F00;
+	text-decoration: none;
+}
+nav.navbar {
+	-webkit-transition: all 0.4s ease;
+   transition: all 0.4s ease;
+}
+nav.navbar.shrink {
+  min-height: 35px;
+}
+.jumbotron {
+	height: 900px;
+}
+.page-footer {
+	position: absolute;
+	background-color: white;
+	width: 100%;
+	color: black;
+}
+.page-footer a {
+	color: #2087d7;
+	padding-bottom: 2px;
+}
+.page-footer a:hover {
+	border-bottom: 2px solid white;
+	text-decoration: none;
+	color: white;
+}
