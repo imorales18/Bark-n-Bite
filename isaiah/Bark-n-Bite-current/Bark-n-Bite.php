@@ -68,9 +68,51 @@
 		</div>
 		</section>
 	</div>
-	<footer>
-		WHAT
-	</footer>
+	
+<footer class="page-footer font-small blue pt-4">
+    <!-- Footer Links -->
+    <div class="container-fluid text-center text-md-left">
+      <!-- Grid row -->
+      <div class="row">
+        <!-- Grid column -->
+        <div class="col-md-6 mt-md-0 mt-3">
+          <!-- Content -->
+          <h5 class="text-uppercase">Hours</h5>
+			<p> <b>Monday-Thursday:</b> 11:00am - 10:00pm<br>
+		 		<b>Friday-Saturday:</b> 11:00am - 2:00am<br>
+				<b>Sunday:</b> 11:00am - 8pm<br>
+	    		<b>Happy Hour:</b> 4:00pm - 6:00pm
+		    </p>
+        </div>
+        <!-- Grid column -->
+        <hr class="clearfix w-100 d-md-none pb-3">
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3">
+            <!-- Links -->
+            <h5 class="text-uppercase">Address &amp; Contact</h5>
+       			<p>123 Bark Ave.<br>
+			       Winter Park, FL 32789
+			    </p>
+			    <p><a href="mailto:contact@barknbite.com" class="email">contact@barknbite.com</a><br>
+			        407-123-BARK</p>
+          </div>
+          <!-- Grid column -->
+          <!-- Grid column -->
+          <div class="col-md-3 mb-md-0 mb-3">
+            <!-- Links -->
+            <h5 class="text-uppercase">follow us</h5>
+            <ul class="list-unstyled">
+              <li>
+                <a href="https://www.facebook.com/" class="fa fa-facebook-square" style="font-size:36px"></a>
+				<a href="https://www.instagram.com/" class="fa fa-instagram" style="font-size:36px"></a>
+				<a href="title_crawl.html" class="fa fa-rebel" style="font-size:36px"></a>
+			</li>
+            </ul>
+          </div>
+      </div>
+    </div>
+  </footer>
+
 	<!--scripts-->
 	<script src="js/jQuery.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>	
