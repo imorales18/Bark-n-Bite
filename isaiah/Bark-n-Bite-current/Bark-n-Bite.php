@@ -7,30 +7,29 @@
 	<meta charset = "UTF-8">
 	<title>Bark n&post; Bite</title>
 	<link rel="stylesheet" href="css/styles.css">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 
 	<div class = "container-fluid">
 		
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		  <a class="navbar-brand" href="#">Navbar</a>
+		<nav class="navbar navbar-expand-lg navbar-light bg-light navbar-custom fixed-top large" id="navigation">
+		  <!--<img class="navbar-brand logo large" src="img/logo.svg" alt="logo">-->
+		  <a class="navbar-brand" href="Bark-n-Bite.html">Bark-n-Bite</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
 		  </button>
 		  <div class="collapse navbar-collapse" id="navbarNav">
-			    <ul class="nav justify-content-end">
+			    <ul class="nav justify-content-end navContent">
 					  <li class="nav-item">
-					    <a class="nav-link active" href="#">Active</a>
+					    <a class="nav-link" href="dinner.php">Menu</a>
 					  </li>
 					  <li class="nav-item">
-					    <a class="nav-link" href="#">Link</a>
+					    <a class="nav-link" href="catering.php">Catering</a>
 					  </li>
 					  <li class="nav-item">
-					    <a class="nav-link" href="#">Link</a>
-					  </li>
-					  <li class="nav-item">
-					    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+					    <a class="nav-link" href="aboutme.php">Our story</a>
 					  </li>
 				</ul>
 		  </div>
@@ -79,5 +78,14 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 	<script src="js/jaralax.js"></script>
 	<script src="js/api.js"></script>
+	<script type="text/javascript">
+		$(document).on("scroll",function(){
+    		if($(document).scrollTop()>20){
+				$("#navigation").removeClass("large").addClass("small");
+    		} else{
+      			$("#navigation").removeClass("small").addClass("large");
+    		}
+		});
+</script>
 </body>
 </html>
