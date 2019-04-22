@@ -1,0 +1,70 @@
+#navigation, nav, a, img, li {
+	transition: all .2s;
+	-moz-transition: all .2s;
+	-webkit-transition: all .2s;
+	-o-transition: all .2s;
+}
+#navigation.font-small {
+	height:50px;
+}
+#navigation.small img {
+}
+#navigation.small li {
+	margin-top: 17px;
+}
+.navbar {
+	overflow: hidden;
+	color: black;
+	top: 0;
+	width: 100%;
+}
+navbar .logo {
+	width: 10%;
+	height: 10%;
+}
+.navbar-brand {
+	text-decoration: none;
+}
+.navbar a {
+	float: right;
+	text-decoration: none;
+	color: #cc6600;
+}
+.navbar a:hover {
+	border-bottom: 2px solid #2087d7;
+	text-decoration: none;
+	color: #2087d7;
+}
+.navbar a:active {
+	border-bottom: 2px solid #FF9F00;
+	text-decoration: none;
+}
+nav.navbar {
+	-webkit-transition: all 0.4s ease;
+   transition: all 0.4s ease;
+}
+nav.navbar.shrink {
+  min-height: 35px;
+}
+.text-uppercase {
+	color: #cc5500;
+}
+.jumbotron {
+	height: 900px;
+}
+.email {
+	 color: #cc6600;
+}
+.page-footer {
+	position: absolute;
+	background-color: white;
+	width: 100%;
+	color: black;
+}
+.page-footer a {
+	color: #cc5500;
+}
+.page-footer a:hover {
+	text-decoration: none;
+	color: #2087d7;
+}
