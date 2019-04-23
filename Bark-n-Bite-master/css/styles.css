@@ -29,12 +29,14 @@ nav.navbar.shrink {
 .jumbotron {
 	height: 900px;
 }
+
 .page-footer {
 	position: absolute;
 	background-color: white;
 	width: 100%;
 	color: black;
 }
+
 .page-footer a {
 	color: #2087d7;
 	padding-bottom: 2px;
