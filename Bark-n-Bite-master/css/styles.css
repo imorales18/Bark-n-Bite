@@ -137,6 +137,7 @@ h5
   display:table;
   padding: 5px;
   padding-bottom: 10px;
+	float: right;
 }
 
 .jumbotronc img
@@ -164,12 +165,16 @@ h5
   padding-top: 3%;
   padding-bottom: 5%;
   font-family: 'Hind Madurai', sans-serif;
+	width: 80%;
+	padding-left: 5%;
 }
 
 #cateringtwo
 {
   padding-bottom: 5%;
   font-family: 'Hind Madurai', sans-serif;
+	width: 80%;
+	padding-left: 5%;
 }
 
 #cateringbtn
@@ -190,6 +195,13 @@ h5
   color: #2087d7;
   font-family: 'Hind Madurai', sans-serif;
 }
+
+#cart
+{
+	margin: 10%;
+	margin-right: 10%;
+}
+
 
 /* CATERING ENDS */
 
