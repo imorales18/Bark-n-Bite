@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta charset = "UTF-8">
 	<style>
-		.jumbotron {
+		#wumbo {
 			background-image: url("img/bone2.jpg");
 		  background-position: center;
 		  background-repeat: repeat-x;
@@ -66,32 +66,51 @@
 		#help {
 			padding: 0 15px 0 15px;
 		}
+		.page-footer {
+			position: absolute;
+			background-color: white;
+			width: 100%;
+			color: black;
+			text-shadow: none;
+			box-shadow:none;
+		}
+
+		.page-footer a {
+			color: #2087d7;
+			padding-bottom: 2px;
+		}
+		.page-footer a:hover {
+			border-bottom: 2px solid white;
+			text-decoration: none;
+			color: white;
+		}
+
 	</style>
 	<title>Bark n Bite - Lunch Menu</title>
 </head>
-<?php include("nav.php")?>
+<?php include 'nav.php';?>
+
 <body>
+
 
 	<div class = "container-fluid">
 
-
-
-		<div class = "jumbotron">
+		<div class = "jumbotron" id="wumbo">
 
 				<h1>MENU</h1>
 		</div>
 
 		<div class = "row">
 			<div class = "col">
-				<a href="lunch.html" class="bmenu">LUNCH</a>
+				<a href="lunch.php" class="bmenu">LUNCH</a>
 			</div>
 
 			<div class = "col">
-				<a href="dinner.html" class="bmenu">DINNER</a>
+				<a href="dinner.php" class="bmenu">DINNER</a>
 			</div>
 
 			<div class = "col">
-				<a href="drinks.html" class="bmenu">DRINKS</a>
+				<a href="drinks.php" class="bmenu">DRINKS</a>
 			</div>
 		</div>
 
@@ -104,28 +123,36 @@
 				<div class="border">
 					<div class="row">
 			      <div class="col">
-			        Barkbecue
+			        BBQ Pork
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $9.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Growled Cheese
+			        Grilled Cheese
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $6.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Something
+			        BLT
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $7.99
 			      </div>
 			    </div>
+					<div class="row">
+						<div class="col">
+							Corn Beef
+						</div>
+						<div class="col">
+							$7.99
+						</div>
+					</div>
 				</div>
 		  </div>
 			<div class="col">
@@ -133,26 +160,34 @@
 				<div class="border">
 					<div class="row">
 			      <div class="col">
-			        Barkbecue
+			        Fries
 			      </div>
 			      <div class="col">
-			        $0.00
-			      </div>
-			    </div>
-					<div class="row">
-			      <div class="col">
-			        Growled Cheese
-			      </div>
-			      <div class="col">
-			        $0.00
+			        $3.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Something
+			        Fried Okra
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $4.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Steamed Veggies
+			      </div>
+			      <div class="col">
+			        $2.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Cole Slaw
+			      </div>
+			      <div class="col">
+			        $2.99
 			      </div>
 			    </div>
 				</div>
@@ -162,26 +197,34 @@
 				<div class="border">
 					<div class="row">
 			      <div class="col">
-			        Barkbecue
+			        Spaghetti
 			      </div>
 			      <div class="col">
-			        $0.00
-			      </div>
-			    </div>
-					<div class="row">
-			      <div class="col">
-			        Growled Cheese
-			      </div>
-			      <div class="col">
-			        $0.00
+			        $9.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Something
+			        Chicken Wings
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $8.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Tacos
+			      </div>
+			      <div class="col">
+			        $9.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Nachos
+			      </div>
+			      <div class="col">
+			        $8.99
 			      </div>
 			    </div>
 				</div>
@@ -200,7 +243,7 @@
  						 Barkbecue
  					 </div>
  					 <div class="col">
- 						 $0.00
+ 						 $5.99
  					 </div>
  				 </div>
  				 <div class="row">
@@ -208,24 +251,32 @@
  						 Growled Cheese
  					 </div>
  					 <div class="col">
- 						 $0.00
+ 						 $5.99
  					 </div>
  				 </div>
  				 <div class="row">
  					 <div class="col">
- 						 Something
+ 						 Bone Fries
  					 </div>
  					 <div class="col">
- 						 $0.00
+ 						 $5.99
  					 </div>
  				 </div>
+				 <div class="row">
+					 <div class="col">
+						 Pita Bull
+					 </div>
+					 <div class="col">
+						 $5.99
+					 </div>
+				 </div>
  			 </div>
 		  </div>
 		</div>
 
 	</div>
-	<?php include("index.php")?>
 
+	<?php include "index.php"?>
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>

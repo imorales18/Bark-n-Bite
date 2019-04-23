@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta charset = "UTF-8">
 	<style>
-	.jumbotron {
+	#wumbo {
 		background-image: url("img/bone2.jpg");
 		background-position: center;
 		background-repeat: repeat-x;
@@ -66,32 +66,51 @@
 	#help {
 		padding: 0 15px 0 15px;
 	}
+	.page-footer {
+		position: absolute;
+		background-color: white;
+		width: 100%;
+		color: black;
+		text-shadow: none;
+		box-shadow:none;
+	}
+
+	.page-footer a {
+		color: #2087d7;
+		padding-bottom: 2px;
+	}
+	.page-footer a:hover {
+		border-bottom: 2px solid white;
+		text-decoration: none;
+		color: white;
+	}
 	</style>
 	<title>Bark n Bite - Dinner Menu</title>
 </head>
+<?php include 'nav.php';?>
 
-<?php include("nav.php")?>
 <body>
 
 	<div class = "container-fluid">
 
 
 
-		<div class = "jumbotron">
-			<h1>MENU</h1>
+		<div class = "jumbotron" id="wumbo">
+
+				<h1>MENU</h1>
 		</div>
 
 		<div class = "row">
 			<div class = "col">
-				<a href="lunch.html" class="bmenu">LUNCH</a>
+				<a href="lunch.php" class="bmenu">LUNCH</a>
 			</div>
 
 			<div class = "col">
-				<a href="dinner.html" class="bmenu">DINNER</a>
+				<a href="dinner.php" class="bmenu">DINNER</a>
 			</div>
 
 			<div class = "col">
-				<a href="drinks.html" class="bmenu">DRINKS</a>
+				<a href="drinks.php" class="bmenu">DRINKS</a>
 			</div>
 		</div>
 
@@ -105,26 +124,34 @@
 				<div class="border">
 					<div class="row">
 			      <div class="col">
-			        Barkbecue
+			        Spaghetti
 			      </div>
 			      <div class="col">
-			        $0.00
-			      </div>
-			    </div>
-					<div class="row">
-			      <div class="col">
-			        Growled Cheese
-			      </div>
-			      <div class="col">
-			        $0.00
+			        $12.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Something
+							Burger
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $11.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Tacos
+			      </div>
+			      <div class="col">
+			        $12.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Nachos
+			      </div>
+			      <div class="col">
+			        $10.99
 			      </div>
 			    </div>
 				</div>
@@ -134,26 +161,34 @@
 				<div class="border">
 					<div class="row">
 			      <div class="col">
-			        Barkbecue
+			        Sampler Platter
 			      </div>
 			      <div class="col">
-			        $0.00
-			      </div>
-			    </div>
-					<div class="row">
-			      <div class="col">
-			        Growled Cheese
-			      </div>
-			      <div class="col">
-			        $0.00
+			        $13.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Something
+			        Spinach Dip
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $6.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Chicken Wings
+			      </div>
+			      <div class="col">
+			        $8.99
+			      </div>
+			    </div>
+					<div class="row">
+			      <div class="col">
+			        Food
+			      </div>
+			      <div class="col">
+			        $8.99
 			      </div>
 			    </div>
 				</div>
@@ -163,28 +198,36 @@
 				<div class="border">
 					<div class="row">
 			      <div class="col">
-			        Barkbecue
+			        Ceasar Salad
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $5.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Growled Cheese
+			        Chop Salad
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $5.99
 			      </div>
 			    </div>
 					<div class="row">
 			      <div class="col">
-			        Something
+			        Blue Cheese Salad
 			      </div>
 			      <div class="col">
-			        $0.00
+			        $5.99
 			      </div>
 			    </div>
+					<div class="row">
+						<div class="col">
+							Ranch Salad
+						</div>
+						<div class="col">
+							$5.99
+						</div>
+					</div>
 				</div>
 		    </div>
 		  </div>
@@ -197,11 +240,11 @@
 		    <h3>Pet Meals</h3>
 				<div class="border">
  				 <div class="row">
- 					 <div class="col">
+					 <div class="col">
  						 Barkbecue
  					 </div>
  					 <div class="col">
- 						 $0.00
+ 						 $5.99
  					 </div>
  				 </div>
  				 <div class="row">
@@ -209,23 +252,102 @@
  						 Growled Cheese
  					 </div>
  					 <div class="col">
- 						 $0.00
+ 						 $5.99
  					 </div>
  				 </div>
  				 <div class="row">
  					 <div class="col">
- 						 Something
+ 						 Bone Fries
  					 </div>
  					 <div class="col">
- 						 $0.00
+ 						 $5.99
  					 </div>
  				 </div>
+				 <div class="row">
+					 <div class="col">
+						 Pita Bull
+					 </div>
+					 <div class="col">
+						 $5.99
+					 </div>
+				 </div>
  			 </div>
 		  </div>
 		</div>
 
 	</div>
-	<?php include("index.php")?>
+
+
+	<footer class="page-footer font-small blue pt-4">
+
+	    <!-- Footer Links -->
+	    <div class="container-fluid text-center text-md-left">
+
+	      <!-- Grid row -->
+	      <div class="row">
+
+	        <!-- Grid column -->
+	        <div class="col-md-6 mt-md-0 mt-3">
+
+	          <!-- Content -->
+	          <h5 class="text-uppercase">Footer Content</h5>
+	          <p>Here you can use rows and columns here to organize your footer content.</p>
+
+	        </div>
+	        <!-- Grid column -->
+
+	        <hr class="clearfix w-100 d-md-none pb-3">
+
+	        <!-- Grid column -->
+	        <div class="col-md-3 mb-md-0 mb-3">
+
+	            <!-- Links -->
+	            <h5 class="text-uppercase">navigation</h5>
+
+	            <ul class="list-unstyled">
+	              <li>
+	                <a href="#!">menu</a>
+	              </li>
+	              <li>
+	                <a href="#!">catering</a>
+	              </li>
+	              <li>
+	                <a href="#!">our story</a>
+	              </li>
+	              <li>
+	                <a href="#!">contact us</a>
+	              </li>
+	            </ul>
+
+	          </div>
+	          <!-- Grid column -->
+
+	          <!-- Grid column -->
+	          <div class="col-md-3 mb-md-0 mb-3">
+
+	            <!-- Links -->
+	            <h5 class="text-uppercase">follow us</h5>
+
+	            <ul class="list-unstyled">
+	              <li>
+	                <a href="#!">Facebook</a>
+	              </li>
+	              <li>
+	                <a href="#!">Instagram</a>
+	              </li>
+	            </ul>
+
+	          </div>
+
+	      </div>
+
+	    </div>
+
+	  </footer>
+
+
+		<?php include "index.php"?>
+
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
