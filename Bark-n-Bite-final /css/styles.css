@@ -105,8 +105,9 @@ a
   margin:0 auto;
   width:auto;
   display:table;
-  height: 400px;
+  height: 200px;
   font-family: 'Hind Madurai', sans-serif;
+  margin-top: 50px;
 }
 
 #aboutus
