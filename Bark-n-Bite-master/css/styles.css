@@ -1,0 +1,368 @@
+.navbar {
+  overflow: hidden;
+  color: black;
+  background-color: #383838;
+  top: 0;
+  width: 100%;
+}
+.navbar a {
+  float: right;
+  text-decoration: none;
+  color: black;
+}
+.navbar a:hover {
+  border-bottom: 2px solid #2087d7;
+  text-decoration: none;
+  color: #2087d7;
+}
+.navbar a:active {
+  border-bottom: 2px solid #FF9F00;
+  text-decoration: none;
+}
+nav.navbar {
+  -webkit-transition: all 0.4s ease;
+   transition: all 0.4s ease;
+}
+nav.navbar.shrink {
+  min-height: 35px;
+}
+.jumbotron {
+  height: 900px;
+}
+
+.page-footer {
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  color: black;
+}
+
+.page-footer a {
+  color: #2087d7;
+  padding-bottom: 2px;
+}
+.page-footer a:hover {
+  border-bottom: 2px solid white;
+  text-decoration: none;
+  color: white;
+}
+
+/* HOME */
+
+#miniabout
+{
+   text-align: center;
+   padding: 10px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   font-family: 'Hind Madurai', sans-serif;
+}
+
+.btn
+{
+  border: 1px solid black;
+}
+
+h1
+{
+ font-family: 'Libre Baskerville', serif;
+ text-align: center;
+ padding: 5px;
+}
+
+a
+{
+     font-family: 'Hind Madurai', sans-serif;
+}
+
+#value
+{
+ text-align: center;
+ padding: 5px;
+ margin-top: 50px;
+ margin-bottom: 100px;
+}
+
+#value img
+{
+  width: 300px;
+  height: auto;
+}
+
+
+/* HOME ENDS */
+
+
+
+/* ABOUT US */
+
+#quote
+{
+  padding: 50px;
+  max-width: 100%;
+  color: #5c4c40;
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+  height: 400px;
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+#aboutus
+{
+  padding: 50px;
+  text-align: center;
+  margin:0 auto;
+  height: 400px;
+  width: 85%;
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+/* ABOUT US ENDS */
+
+
+/* CATERING */
+
+h5
+{
+    text-align: center;
+}
+
+#shoppingcart
+{
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+  padding: 5px;
+  padding-bottom: 10px;
+  float: right;
+}
+
+.jumbotronc img
+{
+  background-position: center;
+  background-repeat: repeat-x;
+  background-size: contain;
+  height: 300px;
+  width: 100%;
+}
+
+.centered
+{
+  position: absolute;
+  top: 215px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+  text-shadow: 3px 3px 7px black;
+}
+
+#cateringone
+{
+  padding-top: 3%;
+  padding-bottom: 5%;
+  font-family: 'Hind Madurai', sans-serif;
+  width: 80%;
+  padding-left: 5%;
+}
+
+#cateringtwo
+{
+  padding-bottom: 5%;
+  font-family: 'Hind Madurai', sans-serif;
+  width: 80%;
+  padding-left: 5%;
+}
+
+#cateringbtn
+{
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+#cateringbtn:hover
+{
+  text-align: center;
+  margin:0 auto;
+  width:auto;
+  display:table;
+  color: #2087d7;
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+#cart
+{
+  margin: 10%;
+  margin-right: 10%;
+}
+
+
+/* CATERING ENDS */
+
+.btn-primary {
+    background-color: #cc5500;
+    border-color: #cc5500;
+}
+.btn-primary:hover {
+    background-color: #e5af3b;
+    border-color: #e5af3b;
+}
+/*slider*/
+.slide {
+    display: block;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(51,51,51);
+    overflow: hidden;
+    position: relative;
+}
+.slide > * {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(51,51,51);
+    animation: slide 10s infinite;
+    overflow: hidden;
+    
+}
+
+.slider:nth-child(1) {
+    left: 0%;
+    animation-delay: 1s;
+    background-image: url("../img/slide1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: red;
+}
+.slider:nth-child(2) {
+    left: 0%;
+    animation-delay: 2s;
+    background-image: url("../img/slide2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color:purple;
+}
+.slider:nth-child(3) {
+    left: 0%;
+    animation-delay: 5s;
+    background-image: url("../img/slide3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color:green;
+}
+.slider:nth-child(4) {
+    left: 0%;
+    animation-delay: 8s;
+    background-image: url("../img/slide4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color:blue;
+}
+
+@keyframes slide {
+    0% { left: 100%; width: 100%;}
+    5% { left: 0%;}
+    25% { left:0;}
+    30% { left: -100%; width: 100%;}
+    30.0001% { left: -100%; width: 0%;}
+    100% { left: 100%; width: 0%;}
+}   
+
+/*parallax*/
+.parallax-image {
+    background-image: url("../img/para-placeholder.jpg");
+    height: 80vh;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-primary {
+    background-color: #cc5500;
+    border-color: #cc5500;
+}
+.btn-primary:hover {
+    background-color: #e5af3b;
+    border-color: #e5af3b;
+}
+/*slider*/
+.slide {
+    display: block;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(51,51,51);
+    overflow: hidden;
+    position: relative;
+}
+.slide > * {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(51,51,51);
+    animation: slide 10s infinite;
+    overflow: hidden;
+    
+}
+
+.slider:nth-child(1) {
+    left: 0%;
+    animation-delay: 1s;
+    background-image: url("../img/slide1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: red;
+}
+.slider:nth-child(2) {
+    left: 0%;
+    animation-delay: 2s;
+    background-image: url("../img/slide2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color:purple;
+}
+.slider:nth-child(3) {
+    left: 0%;
+    animation-delay: 5s;
+    background-image: url("../img/slide3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color:green;
+}
+.slider:nth-child(4) {
+    left: 0%;
+    animation-delay: 8s;
+    background-image: url("../img/slide4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color:blue;
+}
+
+@keyframes slide {
+    0% { left: 100%; width: 100%;}
+    5% { left: 0%;}
+    25% { left:0;}
+    30% { left: -100%; width: 100%;}
+    30.0001% { left: -100%; width: 0%;}
+    100% { left: 100%; width: 0%;}
+}   
+
+/*parallax*/
+.parallax-image {
+    background-image: url("../img/para-placeholder.jpg");
+    height: 80vh;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
