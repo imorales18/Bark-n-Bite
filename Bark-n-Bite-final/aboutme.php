@@ -21,19 +21,27 @@
 
   <div class="row" id="aboutus">
     <div class="col-sm-12">
-      <h1>About Us</h1>
+	<h1>About Us</h1>
       <p>
-        Lorem ipsum dolor amet yOLO mixtape tumblr subway tile locavore taxidermy prism keytar. Normcore mumblecore affogato hexagon, chillwave fashion axe before they sold out occupy kickstarter hashtag selvage next level blog marfa kombucha. Waistcoat PBR&B thundercats retro, pug slow-carb craft beer keytar. Franzen marfa cornhole, tofu whatever direct trade yr messenger bag ugh fixie adaptogen tote bag umami.
+	Established in 2002 Bark n’ Bite has always opened their doors to the public and their four-legged family members.
+	We have places to sit inside and outside in our grass fenced in area so you and your furry friend can enjoy the
+	beautiful outdoors with some of your favorite foods and enjoy you and your pet’s favorite drinks with our indoor and
+	outdoor bar.
         <br><br>
-        Lumbersexual flexitarian drinking vinegar, disrupt 8-bit iPhone art party. Church-key put a bird on it cardigan air plant PBR&B meditation. 8-bit banjo skateboard, cloud bread godard slow-carb freegan taiyaki literally vape authentic artisan distillery lo-fi lomo. Fingerstache plaid listicle umami. Bespoke edison bulb slow-carb, normcore 8-bit tumblr four loko taxidermy.   <br><br>
-        <br>
-          IPhone prism 3 wolf moon, tattooed church-key gastropub flannel pok pok mumblecore squid cronut.    </p>
+	We wanted to create an environment where you can go out, be with your friends, while also having the opportunity
+	to bring your pet. We include a range of food like sandwiches, burgers, and wings on our menu, we also including
+	pet friendly snacks and pet safe alcohol for your furry friends.
+        <br><br>
+	Bark n’ Bites hopes to see you enjoying the fun experience we try to provide for everyone.
+	<br>
+	*We do not breed discriminate*
+	</p>
     </div>
   </div>
 
 <div class="row" id="quote">
 			<blockquote class="blockquote text-right">
-			  <p class="mb-0">"Are you really man's bestfriend if you can't drink with them?" [quote a work in progress]</p>
+			  <p class="mb-0">“Accepting environment not only for pets, but for humans too.”</p>
 			  <footer class="blockquote-footer">Owners of <cite title="Source Title">Bark n' Bite</cite></footer>
 			</blockquote>
 </div>
